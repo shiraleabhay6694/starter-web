@@ -11,3 +11,7 @@ As started above the main purpose is to provide simple examples for git demo
 This is simple web project deployment can be on any web server or even local system
 
 ## How to Contribute
+
+
+### Copyright
+This is a copyright of GIT training

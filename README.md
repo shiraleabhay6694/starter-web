@@ -14,4 +14,4 @@ This is simple web project deployment can be on any web server or even local sys
 
 
 ### Copyright
-This is a copyright of GIT training
+This is a copyright of GIT trainings

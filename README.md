@@ -5,9 +5,9 @@ This is a simple website project for showing how git and github works
 This is an example is to show different parts of git repos and various commands using web project
 
 ## Purpose
-
+As started above the main purpose is to provide simple examples for git demo
 
 ## Deployment
-
+This is simple web project deployment can be on any web server or even local system
 
 ## How to Contribute

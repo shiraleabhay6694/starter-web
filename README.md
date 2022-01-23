@@ -14,4 +14,4 @@ This is simple web project deployment can be on any web server or even local sys
 Please fork thus repository and then issue ull requests for review
 
 ### Copyright
-This is a copyright of GIT trainings
+This is a copyright of GIT trainings. All rights reserved.

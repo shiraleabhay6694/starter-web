@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <!--
 	Copyright Notice
+	This changes are from feature branch bigtrouble
 -->
 <head>
-<<<<<<< HEAD
-	<title>A very respectful website</title>
-=======
 	<title>A great website</title>
->>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -22,18 +19,14 @@
 	<!-- Content Goes Here -->
 		<p>
 <<<<<<< HEAD
-			I'm not sure what will go here but I am sure it will be nice
-		</p>
-	</main>
-	<footer class="container">
-		<p>&copy; Abhay Shirale 2022</p>
+			Just stuff for now
 =======
-			Some interesting stuff goes here
+			Just Nothin' but trouble.
+>>>>>>> 28e3d2c (feature branch adding some trouble to simple.html)
 		</p>
 	</main>
 	<footer class="container">
 		<p>&copy; GIT Training 2022</p>
->>>>>>> realwork
 	</footer>
 </body>
 </html>
